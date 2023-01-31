@@ -1,7 +1,7 @@
 {
   "name": "socket-io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Socket IO Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
